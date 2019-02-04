@@ -56,6 +56,8 @@ slug: 2019-02-04-gridfore-vacancy
 
 ## Контакты
 
-Михаил Супрунов
+Михаил Супрунов 
+
 msuprunov@gridfore.com
+
 +79202202281
